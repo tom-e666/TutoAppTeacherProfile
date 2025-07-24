@@ -79,7 +79,14 @@ export const TeacherProfile: React.FC = () => {
 
     return (
         <SafeAreaView style={styles.container}>
-            <StatusBar barStyle="dark-content" backgroundColor="#fff" />
+            <StatusBar
+                barStyle="dark-content"
+                backgroundColor="#fff"
+                translucent={false}
+                hidden={false}
+                showHideTransition="fade"
+                animated={true}
+            />
             <ScrollView style={styles.scrollView} showsVerticalScrollIndicator={false}>
                 {/* Header Section */}
                 <View style={styles.header}>
