@@ -1,0 +1,30 @@
+{
+    "teacher": {
+        "id": 1,
+        "name": "Dr. Sarah Johnson",
+        "avatar": "https://kcballet.org/wp-content/uploads/2019/11/marcus-oatis.jpg",
+        "subjects": [
+            "Mathematics",
+            "Physics",
+            "Chemistry"
+        ],
+        "rating": 4.8,
+        "totalReviews": 124,
+        "institute": "MIT Computer Science Department",
+        "numberOfStudents": 89,
+        "experience": "8 years",
+        "hourlyRate": "$45",
+        "bio": "Passionate educator with expertise in STEM subjects. I believe in making complex concepts simple and engaging for students.",
+        "qualifications": [
+            "PhD in Mathematics",
+            "MSc in Physics",
+            "Certified Online Educator"
+        ],
+        "languages": [
+            "English",
+            "Spanish",
+            "French"
+        ],
+        "availability": "Mon-Fri: 9 AM - 6 PM"
+    }
+}
